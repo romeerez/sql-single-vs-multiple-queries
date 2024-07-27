@@ -1,3 +1,5 @@
+Check out the original repo for the updated version of Drizzle: https://github.com/webNeat/sql-single-vs-multiple-queries
+
 # Drizzle single vs multiple queries performance comparaison
 
 This sentence from Drizzle documentation was surprising to me:
